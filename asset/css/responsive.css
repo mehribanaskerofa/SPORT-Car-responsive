@@ -141,6 +141,10 @@
     .banner-context div:last-child {
         display: none;
     }
+    .foot-case,
+.foot-lists {
+    width: 360px;
+}
 }
 
 
@@ -156,7 +160,9 @@
     .advantages-none {
         display: none;
     }
-
+    header{
+        background-position: right bottom;
+    }
     .icons,
     .icons i,
     .menu-icon {
@@ -402,7 +408,9 @@
         flex-direction: column;
         align-items: flex-end;
     }
-
+    .foot-policy {
+        margin-left: 0px;
+    }
 }
 
 
